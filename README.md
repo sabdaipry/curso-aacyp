@@ -1,8 +1,11 @@
 # Introducción al Aprendizaje Automático: Aplicaciones a la Predicción y Control
 
 Docente: Dr. Ing. Julián Pucheta (LIMAC-FCEFYN-UNC)
+
 Contacto: jpucheta@unc.edu.ar
+
 Universidad Nacional de Córdoba - Argentina
+
 Segundo Semestre 2025
 
 ## Agenda de Temas
